@@ -628,3 +628,8 @@ Footer styles
 .footer p {
 	font-weight: normal;
 }
+.explain {
+	color: #fff;
+	text-align: center;
+	margin-bottom: 43px;
+}
